@@ -1,0 +1,16 @@
+#error {
+	margin-left: 40px;
+	color: red;
+}
+#fields {
+	list-style: none;
+}
+
+.item {
+	margin-bottom: 10px;
+}
+
+.label {
+	text-align: left;
+	display: block;
+}
